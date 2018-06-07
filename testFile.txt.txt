@@ -1,3 +1,4 @@
+
 Zerowa linijka textu
-Pierwsza linijka innego textu
-Trzecia linijka
+Pierwsza linijka textu
+Druga linijka textu
