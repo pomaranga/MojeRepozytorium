@@ -1,1 +1,2 @@
 Znów pierwsza linijka textu.
+inna linijka textu
